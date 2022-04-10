@@ -1,6 +1,6 @@
 ### Oii! Eu sou a Iara! 
 
-- 🌱 Atualmente, sou estudante de programação na Trybe
+- 🌱 Atualmente, sou estudante de Desenvolvimento Web na Trybe
 - 😄 Pronomes: ela/dela
 
 <div align="center">
