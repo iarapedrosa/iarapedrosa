@@ -1,6 +1,7 @@
 ### Oii! Eu sou a Iara! 
 
-- 🌱 Estudante de Desenvolvimento Web com preferência por Back-End
+- 🌱 Desenvolvedora de software com experiência profissional em Java e Angular;
+- Projetos pessoais foram desenvolvidos com React, HTML e CSS, mas aos poucos irei atualizando aqui com as novas linguagens e frameworks;
 - 😄 Pronomes: ela/dela
 
 <div align="center">
